@@ -9,8 +9,6 @@ public class SubtractASquare{
     // Variables specified by the game description
     static final int HEAP_SIZE = 13;
     static final int NUM_OF_HEAPS = 3;
-    // Use of 'Integer' due to array module 'contains' method requiring 'Integer' data type
-    static final Integer[] ACCEPTED_COIN_INPUTS = {1, 4, 9};
     static final int EMPTY_HEAP = 0;
 
     // Used to track the separate heaps
